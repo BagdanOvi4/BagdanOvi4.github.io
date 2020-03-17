@@ -1,0 +1,10 @@
+.word { 
+    width: 160px; 
+    background: #f0f0f0;
+    border: 1px solid #333;
+    padding: 10px;
+    font-size: 18px;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+   }
