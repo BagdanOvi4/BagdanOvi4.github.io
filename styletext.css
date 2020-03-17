@@ -1,0 +1,63 @@
+.y{
+	/*font-family: Comic Sans, Arial, sans-serif;*/
+	font-size:25px;
+	/*font-family: 'Viaoda Libre', cursive;*/
+	/*font-family: 'Caveat', cursive;*/
+	/*font-family: 'Amatic SC', cursive;*/
+	/*font-family: 'Caladea', serif;*/
+	/*font-family: 'Shadows Into Light', cursive;*/
+	/*font-family: 'Dancing Script', cursive;*/
+	/*font-family: 'Bellota', cursive;*/
+
+
+
+
+	/*font-weight: 700;*/
+
+}
+.cit{
+			font-family: 'Caveat', cursive;
+			font-size:25px;
+			font-weight:500;
+			margin-top:0;
+}
+.text2{
+	font-family: 'Bellota', cursive;
+	font-size:22px;
+	-moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    margin-top:0;
+}
+.sp{
+	font-weight: 600;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 25%;
+	margin-right: 16%;
+	border-left: 3px black solid;
+	border-right: 3px black solid;
+	background-color: rgba(255,255,255);
+	font-family: 'Viaoda Libre', cursive;
+}
+.sp1{
+		font-family: 'Viaoda Libre', cursive;
+}
+.t{
+	margin:0;
+	-moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    font-family: 'Bellota', cursive;
+    /*font-size:25px;*/
+}
+.Naz{
+		font-family: 'Bellota', cursive ;
+	font-size:35px;
+	-moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    margin-top:0;
+    text-align: center;
+	font-weight:400;
+}
