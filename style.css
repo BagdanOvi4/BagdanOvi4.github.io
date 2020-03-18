@@ -131,7 +131,8 @@ html{
 }
 .key{
 	text-align: center;
-	width: 100%	;
+	
+
 	color: white;
 	text-decoration: none;
 	transition: color  linear;
@@ -360,17 +361,11 @@ h1,h2,h3,h4,h5,h6 {
 	margin-left:10px;
 	padding-top:20px;
 }
-		.art1{
-			margin-top:10px;
-			margin-left: 10px;
-			width: 300px;
-			height: auto;
-			position: relative;
-			/*bottom:10px;*/
-			left: 15%;
-			/*top:70vh;*/
-		}
-		.art2{
+.art1{
+	
+
+	}
+.art2{
 			/*margin-top:10px;
 			margin-left: 10px;
 			height: auto;*/
@@ -382,20 +377,13 @@ h1,h2,h3,h4,h5,h6 {
 		    margin-right: auto;
 		}
 		.imageT32{
-			max-height: 400px;
-			width: 70%;
+			max-width: 70%;
+			width: 100%;
 			height: auto;
 			margin-left: 15%;
 		}
-		.imageT32 img{
-			display: inline-block;
-			max-width: 60%;
-			max-height:600px;
-			height: auto;
-		}
 		.imageV{
-			max-height: 400px;
-			width: 100%;
-			height: auto;
-			margin-left: 1%;
+			
+		
+		
 		}		
