@@ -42,6 +42,9 @@
 }
 .sp1{
 		font-family: 'Viaoda Libre', cursive;
+		font-weight: 500;
+		font-size: 19px;
+		margin-left: 20px;
 }
 .t{
 	margin:0;
@@ -49,7 +52,7 @@
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
     font-family: 'Bellota', cursive;
-    /*font-size:25px;*/
+    font-size:18px;
 }
 .Naz{
 		font-family: 'Bellota', cursive ;
@@ -60,4 +63,6 @@
     margin-top:0;
     text-align: center;
 	font-weight:400;
+	margin-bottom: 15px;
+	text-decoration: underline;
 }
